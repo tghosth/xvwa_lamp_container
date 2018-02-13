@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM debian:latest
 MAINTAINER tuxotron <tuxotron@gmail.com>
 
 # Install packages
